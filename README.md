@@ -205,6 +205,10 @@ If you like this project...
 
 I would like to thank...
 
+- To [Cindy Shin](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015), Original design.
+- Creative Commons license of the design
+- I would like to thanks all my coding partners at Microverse
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->

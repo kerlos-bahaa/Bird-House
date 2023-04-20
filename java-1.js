@@ -58,7 +58,7 @@ for (let i = 0; i < projectArray.length; i += 1) {
 const projectArray1 = [
   {
     name: 'Yochai Benkler',
-    description: '  Berkman Professor of Entrepreneurial Legal Studies at Harvard Law School',
+    description: '  Berkman Professor of Entrepreneurial ',
     featuredImage: './picture/speaker_01 1.png',
     technologies:
       'Benkler studies commons-based peer production, and published his seminal book, The Wealth of Networks in 2006',
@@ -68,21 +68,21 @@ const projectArray1 = [
     description: '  Director of Art Centre Nabi and a board member of CC Korea',
     featuredImage: './picture/2.png',
     technologies:
-      'As the main venue for new media art production in Korea, Nabi promotes cross-disciplinary collaboration and understanding among science technology, humanities, and the arts.',
+      'As the main venue for new media art production in Korea, Nabi promotes cross-disciplinary collaboration and understanding among science technology.',
   },
   {
     name: 'Lila tretikov',
     description: '  Executive Director of the Wikimedia Foundation.',
     featuredImage: './picture/3.png',
     technologies:
-      'Lila Tretikov is the Executive of the Wikimedia Foundation, the nonprofit organization that operates Wikipedia. Wikipedia is freely available in 290 languag-es and used by nearly half a billion people around the world every month.',
+      'Lila Tretikov is the Executive of the Wikimedia Foundation, the nonprofit organization that operates Wikipedia. Wikipedia is freely available in 290 languag-es and used by nearly half a billion people .',
   },
   {
     name: 'Kilnam Chon',
     description: '  ',
     featuredImage: './picture/4.png',
     technologies:
-      'Kilnam Chon helped bring the internet to Asia and is an outspoken advocate for the open web and digital com-mons. In 2012. he was inducted into the inaugural class of the Internet Society’s (ISOC) Internet Hall of Fame.',
+      'Kilnam Chon helped bring the internet to Asia and is an outspoken advocate for the open web and digital com-mons. In 2012. he was inducted into the inaugural class of the Internet Society’s (ISOC) .',
   },
   {
     name: 'Julia Leda',

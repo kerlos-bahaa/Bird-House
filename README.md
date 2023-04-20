@@ -69,7 +69,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://kerlos-bahaa.github.io/Portfolio/)
+- [Live Demo Link](https://kerlos-bahaa.github.io/capstone-project/)
   <br>
 - <a href="https://www.loom.com/share/92e7b9400ee84eb6a71d8e96fed3c3b6">Loom presentation</a>
 

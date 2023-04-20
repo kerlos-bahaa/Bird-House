@@ -116,6 +116,7 @@ main .container {
   width: 100%;
   margin: 5px;
   color: #ec5242;
+  /* stylelint-disable */
   background: -webkit-linear-gradient(
     142deg,
     #f30 10%,
@@ -129,6 +130,7 @@ main .container {
     #ff5e00 90%,
     #ff5e00 100%
   );
+  /* stylelint-enable */
   -webkit-background-clip: text;
   -webkit-text-fill-color: #72484800;
 }
